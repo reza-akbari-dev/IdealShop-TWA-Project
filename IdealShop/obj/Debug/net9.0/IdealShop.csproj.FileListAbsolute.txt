@@ -1,0 +1,1027 @@
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\appsettings.json
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\IdealShop.staticwebassets.runtime.json
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\IdealShop.staticwebassets.endpoints.json
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\IdealShop.exe
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\IdealShop.deps.json
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\IdealShop.runtimeconfig.json
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\IdealShop.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\IdealShop.pdb
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.csproj.AssemblyReference.cache
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.AssemblyInfoInputs.cache
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.AssemblyInfo.cs
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.csproj.CoreCompileInputs.cache
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.RazorAssemblyInfo.cache
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.RazorAssemblyInfo.cs
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\scopedcss\bundle\IdealShop.styles.css
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\scopedcss\projectbundle\IdealShop.bundle.scp.css
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\ftidr07wf2-61n19gt1b8.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\yhquhth7eq-xtxxf3hu2r.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\33vmn1fxok-bqjiyaj88i.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\in8vugmian-c2jlpeoesf.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\8lwkk0y3yr-erw9l3u2r3.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\l16j6v2ps1-aexeepp0ev.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\2jrr8gthbl-d7shbmvgxk.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\iucikxes4o-ausgxo2sd3.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\dl38tn4h38-k8d9w2qqmf.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\bkttooznjo-cosvhxvwiu.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\5p7cn65zn2-ub07r2b239.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\zq5tpl1bqm-fvhpjtyr6v.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\xcf6o6xg2b-b7pk76d08c.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\i23vja52b7-fsbi9cje9m.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\0vcbesshb2-rzd6atqjts.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\7mdjg9xqex-ee0r1s7dh0.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\xwym3uzv4i-dxx9fxp4il.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\3z2gte5zhg-jd9uben2k1.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\ulacurh9q2-khv3u5hwcm.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\xwtkfvkv4c-r4e9w2rdcm.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\tgmk33a7ot-lcd1t2u6c8.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\yu64rygsg0-c2oey78nd0.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\nja34c21jj-tdbxkamptv.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\ufnieu4pi3-j5mq2jizvt.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\542803v8o0-06098lyss8.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\wfp9frzxgu-nvvlpmu67g.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\51en7kp3z3-s35ty4nyc5.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\dh4ei6an97-pj5nd1wqec.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\02mg1aav69-46ein0sx1k.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\nd2vqi2rp1-v0zj4ognzu.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\hrd23qvxwu-37tfw0ft22.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\ul3lrrbww0-hrwsygsryq.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\lmc1i9440k-pk9g2wxc8p.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\dykwjyrbzr-ft3s53vfgj.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\6fl0o5yddu-6cfz1n2cew.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\wm7y1qbs3k-6pdc2jztkx.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\av6uda454h-493y06b0oq.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\c79f7isovv-iovd86k7lj.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\dly9g01na7-vr1egmr9el.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\wr6ogsxxfs-kbrnm935zg.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\vur3528zdb-jj8uyg4cgr.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\uf2cko8s0a-y7v9cxd14o.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\qz9qn9mw1d-notf2xhcfb.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\bn7tq2du4t-h1s4sie4z3.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\ikkdc42vv8-63fj8s7r0e.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\jlux62fkbi-0j3bgjxly4.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\ogwqqn1ni2-47otxtyo56.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\jmokkiqo9s-4v8eqarkd7.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\obywk60nyh-356vix0kms.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\9sscaeleri-83jwlth58m.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\4bhb3yocwz-mrlpezrjn3.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\w9zhoh1oot-lzl9nlhx6b.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\r3hf42rrpx-ag7o75518u.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\2d17bnxnki-x0q3zqp4vz.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\j6fh5deu6g-0i3buxo5is.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\pwb4ksfazl-o1o13a6vjx.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\u4o2ipyy40-ttgo8qnofa.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\pduuiy6njm-2z0ns9nrw6.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\m3l8s931zo-muycvpuwrr.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\t0k9ysxwxx-87fc7y1x7t.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\aoszxpufci-mlv21k5csn.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\ns17zcdp3e-wwq9bdeqro.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\k0cxlussem-wwq9bdeqro.gz
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets\msbuild.IdealShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets\msbuild.IdealShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets\msbuild.build.IdealShop.props
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.IdealShop.props
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.IdealShop.props
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.csproj.Up2Date
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\refint\IdealShop.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.pdb
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.genruntimeconfig.cache
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\ref\IdealShop.dll
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Reza\Desktop\Bolck four\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\3kf6x9nmtp-nj8n98nviy.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\appsettings.Development.json
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\appsettings.json
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\IdealShop.staticwebassets.endpoints.json
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\IdealShop.staticwebassets.runtime.json
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\IdealShop.exe
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\IdealShop.deps.json
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\IdealShop.runtimeconfig.json
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\IdealShop.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\IdealShop.pdb
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Azure.Core.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Azure.Identity.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Humanizer.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Build.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.Common.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.ClientModel.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.CodeDom.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Memory.Data.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Text.Json.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.csproj.AssemblyReference.cache
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.AssemblyInfoInputs.cache
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.AssemblyInfo.cs
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.csproj.CoreCompileInputs.cache
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.MvcApplicationPartsAssemblyInfo.cache
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.RazorAssemblyInfo.cache
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.RazorAssemblyInfo.cs
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.sourcelink.json
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\scopedcss\bundle\IdealShop.styles.css
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\scopedcss\projectbundle\IdealShop.bundle.scp.css
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\3kf6x9nmtp-nj8n98nviy.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\ftidr07wf2-61n19gt1b8.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\yhquhth7eq-xtxxf3hu2r.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\33vmn1fxok-bqjiyaj88i.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\in8vugmian-c2jlpeoesf.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\8lwkk0y3yr-erw9l3u2r3.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\l16j6v2ps1-aexeepp0ev.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\2jrr8gthbl-d7shbmvgxk.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\iucikxes4o-ausgxo2sd3.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\dl38tn4h38-k8d9w2qqmf.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\bkttooznjo-cosvhxvwiu.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\5p7cn65zn2-ub07r2b239.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\zq5tpl1bqm-fvhpjtyr6v.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\xcf6o6xg2b-b7pk76d08c.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\i23vja52b7-fsbi9cje9m.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\0vcbesshb2-rzd6atqjts.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\7mdjg9xqex-ee0r1s7dh0.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\xwym3uzv4i-dxx9fxp4il.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\3z2gte5zhg-jd9uben2k1.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\ulacurh9q2-khv3u5hwcm.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\xwtkfvkv4c-r4e9w2rdcm.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\tgmk33a7ot-lcd1t2u6c8.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\yu64rygsg0-c2oey78nd0.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\nja34c21jj-tdbxkamptv.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\ufnieu4pi3-j5mq2jizvt.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\542803v8o0-06098lyss8.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\wfp9frzxgu-nvvlpmu67g.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\51en7kp3z3-s35ty4nyc5.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\dh4ei6an97-pj5nd1wqec.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\02mg1aav69-46ein0sx1k.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\nd2vqi2rp1-v0zj4ognzu.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\hrd23qvxwu-37tfw0ft22.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\ul3lrrbww0-hrwsygsryq.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\lmc1i9440k-pk9g2wxc8p.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\dykwjyrbzr-ft3s53vfgj.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\6fl0o5yddu-6cfz1n2cew.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\wm7y1qbs3k-6pdc2jztkx.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\av6uda454h-493y06b0oq.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\c79f7isovv-iovd86k7lj.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\dly9g01na7-vr1egmr9el.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\wr6ogsxxfs-kbrnm935zg.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\vur3528zdb-jj8uyg4cgr.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\uf2cko8s0a-y7v9cxd14o.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\qz9qn9mw1d-notf2xhcfb.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\bn7tq2du4t-h1s4sie4z3.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\ikkdc42vv8-63fj8s7r0e.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\jlux62fkbi-0j3bgjxly4.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\ogwqqn1ni2-47otxtyo56.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\jmokkiqo9s-4v8eqarkd7.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\obywk60nyh-356vix0kms.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\9sscaeleri-83jwlth58m.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\4bhb3yocwz-mrlpezrjn3.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\w9zhoh1oot-lzl9nlhx6b.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\r3hf42rrpx-ag7o75518u.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\2d17bnxnki-x0q3zqp4vz.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\j6fh5deu6g-0i3buxo5is.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\pwb4ksfazl-o1o13a6vjx.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\u4o2ipyy40-ttgo8qnofa.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\pduuiy6njm-2z0ns9nrw6.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\m3l8s931zo-muycvpuwrr.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\t0k9ysxwxx-87fc7y1x7t.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\aoszxpufci-mlv21k5csn.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\ns17zcdp3e-wwq9bdeqro.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\k0cxlussem-wwq9bdeqro.gz
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets.build.json
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets.development.json
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets\msbuild.IdealShop.Microsoft.AspNetCore.StaticWebAssets.props
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets\msbuild.IdealShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets\msbuild.build.IdealShop.props
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.IdealShop.props
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.IdealShop.props
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets.pack.json
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.csproj.Up2Date
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\refint\IdealShop.dll
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.pdb
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.genruntimeconfig.cache
+D:\education\vanier\Bolck 4\Application Development\project\IdealShop\IdealShop\obj\Debug\net9.0\ref\IdealShop.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\appsettings.Development.json
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\appsettings.json
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\IdealShop.staticwebassets.endpoints.json
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\IdealShop.staticwebassets.runtime.json
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\IdealShop.exe
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\IdealShop.deps.json
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\IdealShop.runtimeconfig.json
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\IdealShop.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\IdealShop.pdb
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Azure.Core.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Azure.Identity.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Humanizer.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Build.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.Common.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\System.ClientModel.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\System.CodeDom.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Memory.Data.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\System.Text.Json.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.csproj.AssemblyReference.cache
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.AssemblyInfoInputs.cache
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.AssemblyInfo.cs
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.csproj.CoreCompileInputs.cache
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.MvcApplicationPartsAssemblyInfo.cache
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.RazorAssemblyInfo.cache
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.RazorAssemblyInfo.cs
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\scopedcss\bundle\IdealShop.styles.css
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\scopedcss\projectbundle\IdealShop.bundle.scp.css
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\3kf6x9nmtp-nj8n98nviy.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\ftidr07wf2-61n19gt1b8.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\yhquhth7eq-xtxxf3hu2r.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\33vmn1fxok-bqjiyaj88i.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\in8vugmian-c2jlpeoesf.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\8lwkk0y3yr-erw9l3u2r3.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\l16j6v2ps1-aexeepp0ev.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\2jrr8gthbl-d7shbmvgxk.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\iucikxes4o-ausgxo2sd3.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\dl38tn4h38-k8d9w2qqmf.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\bkttooznjo-cosvhxvwiu.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\5p7cn65zn2-ub07r2b239.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\zq5tpl1bqm-fvhpjtyr6v.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\xcf6o6xg2b-b7pk76d08c.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\i23vja52b7-fsbi9cje9m.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\0vcbesshb2-rzd6atqjts.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\7mdjg9xqex-ee0r1s7dh0.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\xwym3uzv4i-dxx9fxp4il.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\3z2gte5zhg-jd9uben2k1.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\ulacurh9q2-khv3u5hwcm.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\xwtkfvkv4c-r4e9w2rdcm.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\tgmk33a7ot-lcd1t2u6c8.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\yu64rygsg0-c2oey78nd0.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\nja34c21jj-tdbxkamptv.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\ufnieu4pi3-j5mq2jizvt.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\542803v8o0-06098lyss8.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\wfp9frzxgu-nvvlpmu67g.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\51en7kp3z3-s35ty4nyc5.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\dh4ei6an97-pj5nd1wqec.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\02mg1aav69-46ein0sx1k.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\nd2vqi2rp1-v0zj4ognzu.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\hrd23qvxwu-37tfw0ft22.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\ul3lrrbww0-hrwsygsryq.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\lmc1i9440k-pk9g2wxc8p.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\dykwjyrbzr-ft3s53vfgj.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\6fl0o5yddu-6cfz1n2cew.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\wm7y1qbs3k-6pdc2jztkx.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\av6uda454h-493y06b0oq.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\c79f7isovv-iovd86k7lj.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\dly9g01na7-vr1egmr9el.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\wr6ogsxxfs-kbrnm935zg.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\vur3528zdb-jj8uyg4cgr.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\uf2cko8s0a-y7v9cxd14o.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\qz9qn9mw1d-notf2xhcfb.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\bn7tq2du4t-h1s4sie4z3.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\ikkdc42vv8-63fj8s7r0e.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\jlux62fkbi-0j3bgjxly4.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\ogwqqn1ni2-47otxtyo56.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\jmokkiqo9s-4v8eqarkd7.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\obywk60nyh-356vix0kms.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\9sscaeleri-83jwlth58m.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\4bhb3yocwz-mrlpezrjn3.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\w9zhoh1oot-lzl9nlhx6b.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\r3hf42rrpx-ag7o75518u.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\2d17bnxnki-x0q3zqp4vz.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\j6fh5deu6g-0i3buxo5is.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\pwb4ksfazl-o1o13a6vjx.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\u4o2ipyy40-ttgo8qnofa.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\pduuiy6njm-2z0ns9nrw6.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\m3l8s931zo-muycvpuwrr.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\t0k9ysxwxx-87fc7y1x7t.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\aoszxpufci-mlv21k5csn.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\ns17zcdp3e-wwq9bdeqro.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\compressed\k0cxlussem-wwq9bdeqro.gz
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets.build.json
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets.development.json
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets\msbuild.IdealShop.Microsoft.AspNetCore.StaticWebAssets.props
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets\msbuild.IdealShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets\msbuild.build.IdealShop.props
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.IdealShop.props
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.IdealShop.props
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets.pack.json
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.csproj.Up2Date
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\refint\IdealShop.dll
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.pdb
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\IdealShop.genruntimeconfig.cache
+D:\education\vanier\block 5\TRANSACTIONAL WEB APPLICATIONS\project\IdealShop\IdealShop\obj\Debug\net9.0\ref\IdealShop.dll

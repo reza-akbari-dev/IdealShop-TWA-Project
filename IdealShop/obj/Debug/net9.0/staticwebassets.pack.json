@@ -1,0 +1,421 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\IdealShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\IdealShop.wwq9bdeqro.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\0229f871-e834-4c00-98f3-2461377b9623.jpg",
+      "PackagePath": "staticwebassets\\images\\0229f871-e834-4c00-98f3-2461377b9623.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\027d520d-ad09-44b9-9faf-76a075fd6dbc.jpg",
+      "PackagePath": "staticwebassets\\images\\027d520d-ad09-44b9-9faf-76a075fd6dbc.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\09baea3a-ac12-40e9-8f51-b8ca29f6b268.jpg",
+      "PackagePath": "staticwebassets\\images\\09baea3a-ac12-40e9-8f51-b8ca29f6b268.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\09c1af16-d76f-4178-91f9-3dacd1f12ef8.png",
+      "PackagePath": "staticwebassets\\images\\09c1af16-d76f-4178-91f9-3dacd1f12ef8.png"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\1e87fe88-5d2c-4532-9311-697b71a98ade.jpg",
+      "PackagePath": "staticwebassets\\images\\1e87fe88-5d2c-4532-9311-697b71a98ade.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\2a2d7ccc-ef3b-4c09-8d9f-a5bfdbe0efef.jpg",
+      "PackagePath": "staticwebassets\\images\\2a2d7ccc-ef3b-4c09-8d9f-a5bfdbe0efef.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\32401177-aecd-4301-8cd9-c7583a3391ae.jpg",
+      "PackagePath": "staticwebassets\\images\\32401177-aecd-4301-8cd9-c7583a3391ae.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\34593fd0-1518-412e-8808-6e5e1ed74a81.png",
+      "PackagePath": "staticwebassets\\images\\34593fd0-1518-412e-8808-6e5e1ed74a81.png"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\42050254-2124-4f61-8574-34b65106e2c5.jpg",
+      "PackagePath": "staticwebassets\\images\\42050254-2124-4f61-8574-34b65106e2c5.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\4a40a8ca-7244-4151-9323-2120423fe878.jpg",
+      "PackagePath": "staticwebassets\\images\\4a40a8ca-7244-4151-9323-2120423fe878.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\69b348cd-d5a8-4205-ac89-13d62a202e7f.png",
+      "PackagePath": "staticwebassets\\images\\69b348cd-d5a8-4205-ac89-13d62a202e7f.png"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\73a655a5-fd44-48cc-8097-df8b3283bd22.jpg",
+      "PackagePath": "staticwebassets\\images\\73a655a5-fd44-48cc-8097-df8b3283bd22.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\844f8876-8740-4eb6-b3a5-d2454d25fc94.jpg",
+      "PackagePath": "staticwebassets\\images\\844f8876-8740-4eb6-b3a5-d2454d25fc94.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\85988e53-4c5a-4bb8-8cf6-2f0e54ffa845.jpg",
+      "PackagePath": "staticwebassets\\images\\85988e53-4c5a-4bb8-8cf6-2f0e54ffa845.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\869e4b91-eee8-458a-a751-3174e46a1863.jpg",
+      "PackagePath": "staticwebassets\\images\\869e4b91-eee8-458a-a751-3174e46a1863.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\8d756d96-93a4-4a53-a1d0-4549f5f5c6b2.png",
+      "PackagePath": "staticwebassets\\images\\8d756d96-93a4-4a53-a1d0-4549f5f5c6b2.png"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\960x0.webp",
+      "PackagePath": "staticwebassets\\images\\960x0.webp"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\a6b84fa3-8666-49d9-9c31-00f8227b1507.png",
+      "PackagePath": "staticwebassets\\images\\a6b84fa3-8666-49d9-9c31-00f8227b1507.png"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\b3306535-fb29-4265-a9df-58d2a78ebd7c.jpg",
+      "PackagePath": "staticwebassets\\images\\b3306535-fb29-4265-a9df-58d2a78ebd7c.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\ba5eb47b-8b22-4275-a502-5ae102ca76c3.jpg",
+      "PackagePath": "staticwebassets\\images\\ba5eb47b-8b22-4275-a502-5ae102ca76c3.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\bea7e8c8-b290-4230-92cd-33d8e1506248.jpg",
+      "PackagePath": "staticwebassets\\images\\bea7e8c8-b290-4230-92cd-33d8e1506248.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\bf5cadb6-7cdf-4040-be6c-a4fa8f611f38.jpg",
+      "PackagePath": "staticwebassets\\images\\bf5cadb6-7cdf-4040-be6c-a4fa8f611f38.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\c08e2190-5c36-44a3-a93a-341442fff840.jpg",
+      "PackagePath": "staticwebassets\\images\\c08e2190-5c36-44a3-a93a-341442fff840.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\c7e8e79a-5fcb-4b6b-859c-f73723c103e8.jpg",
+      "PackagePath": "staticwebassets\\images\\c7e8e79a-5fcb-4b6b-859c-f73723c103e8.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\ccb2f738-7ffe-43d3-8459-f10cfbc8ce25.png",
+      "PackagePath": "staticwebassets\\images\\ccb2f738-7ffe-43d3-8459-f10cfbc8ce25.png"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\cd080114-6d3b-47ba-a894-95c9a6f5bb1c.avif",
+      "PackagePath": "staticwebassets\\images\\cd080114-6d3b-47ba-a894-95c9a6f5bb1c.avif"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\d8eb1197-5aa9-4208-b089-a098f117e295.jpg",
+      "PackagePath": "staticwebassets\\images\\d8eb1197-5aa9-4208-b089-a098f117e295.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\de635743-3a1c-431a-a873-d1ed57736070.jpg",
+      "PackagePath": "staticwebassets\\images\\de635743-3a1c-431a-a873-d1ed57736070.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\e11f79f0-8ada-4943-9137-1cbaddd72861.jpg",
+      "PackagePath": "staticwebassets\\images\\e11f79f0-8ada-4943-9137-1cbaddd72861.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\e1c972bd-a59a-4bea-9383-a8a5f89898cc.jpg",
+      "PackagePath": "staticwebassets\\images\\e1c972bd-a59a-4bea-9383-a8a5f89898cc.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\e80f26f2-802d-4421-8c69-f95a24b610f3.jpg",
+      "PackagePath": "staticwebassets\\images\\e80f26f2-802d-4421-8c69-f95a24b610f3.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\f99be26f-90db-4973-a751-7244b44ed9ed.jpg",
+      "PackagePath": "staticwebassets\\images\\f99be26f-90db-4973-a751-7244b44ed9ed.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\mainpage.jpg.webp",
+      "PackagePath": "staticwebassets\\images\\mainpage.jpg.webp"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\mainpage.png",
+      "PackagePath": "staticwebassets\\images\\mainpage.png"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\images\\mainpage1.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage1.jpg"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop\\IdealShop\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.IdealShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.IdealShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.IdealShop.props",
+      "PackagePath": "build\\IdealShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.IdealShop.props",
+      "PackagePath": "buildMultiTargeting\\IdealShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.IdealShop.props",
+      "PackagePath": "buildTransitive\\IdealShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
