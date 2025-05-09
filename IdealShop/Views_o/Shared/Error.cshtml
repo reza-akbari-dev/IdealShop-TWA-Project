@@ -1,0 +1,26 @@
+﻿@model ErrorViewModel
+@{
+    ViewData["Title"] = "Error";
+}
+
+<div class="container mt-5">
+    <div class="alert alert-danger text-center shadow-sm">
+        <h1 class="display-5">Oops! Something went wrong.</h1>
+        <p class="lead">An error occurred while processing your request.</p>
+
+        @if (Model.ShowRequestId)
+        {
+            <p><strong>Request ID:</strong> <code>@Model.RequestId</code></p>
+        }
+
+        <hr />
+        <p class="mb-0"><strong>Tip:</strong> This message is generic for safety. Enable detailed errors in development only.</p>
+    </div>
+
+    <div class="alert alert-warning mt-4">
+        <h4>Development Mode</h4>
+        <p>To see full error details, switch to the <strong>Development</strong> environment by setting the</p>
+        <pre>ASPNETCORE_ENVIRONMENT=Development</pre>
+        <p>and restarting the application.</p>
+    </div>
+</div>
