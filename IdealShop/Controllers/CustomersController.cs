@@ -1,6 +1,7 @@
-﻿using System.Security.Cryptography;
-using System.Security.Claims;
+﻿using System.Security.Claims;
+using System.Security.Cryptography;
 using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Cryptography.KeyDerivation;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -9,7 +10,9 @@ using IdealShop.Models;
 
 namespace IdealShop.Controllers
 {
-    public class CustomersController : Controller
+    [ApiController]
+    [Route("api/[controller]")]
+    public class CustomersController : ControllerBase
     {
         private readonly ApplicationDbContext _context;
 
@@ -18,67 +21,51 @@ namespace IdealShop.Controllers
             _context = context;
         }
 
-        //  GET: All Customers
-        public async Task<IActionResult> Index()
+        // GET: api/customers
+        [HttpGet]
+        public async Task<IActionResult> GetAll()
         {
-            return View(await _context.Customers.ToListAsync());
+            var customers = await _context.Customers.ToListAsync();
+            return Ok(customers);
         }
 
-        //  GET: Customer Details
-        public async Task<IActionResult> Details(int? id)
+        // GET: api/customers/5
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetById(int id)
         {
-            var customer = await FindByIdAsync(id);
-            return customer == null ? NotFound() : View(customer);
+            var customer = await _context.Customers.FindAsync(id);
+            return customer == null ? NotFound() : Ok(customer);
         }
 
-        //  GET: Create Customer
-        public IActionResult Create()
-        {
-            return View();
-        }
-
-        //  POST: Create Customer
+        // POST: api/customers
         [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,FirstName,LastName,Email,Password,PhoneNumber,Address")] Customer customer)
+        public async Task<IActionResult> Create([FromBody] Customer customer)
         {
-            if (!ModelState.IsValid) return View(customer);
+            if (!ModelState.IsValid) return BadRequest(ModelState);
 
             if (await _context.Customers.AnyAsync(c => c.Email == customer.Email))
-            {
-                ModelState.AddModelError("Email", "Email is already registered.");
-                return View(customer);
-            }
+                return BadRequest("Email is already registered.");
 
             (customer.Password, customer.Salt) = HashPassword(customer.Password);
 
-            _context.Add(customer);
+            _context.Customers.Add(customer);
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+
+            return CreatedAtAction(nameof(GetById), new { id = customer.Id }, customer);
         }
 
-        // GET: Edit Customer
-        public async Task<IActionResult> Edit(int? id)
+        // PUT: api/customers/5
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Update(int id, [FromBody] Customer customer)
         {
-            var customer = await FindByIdAsync(id);
-            return customer == null ? NotFound() : View(customer);
-        }
-
-        //  POST: Edit Customer
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,FirstName,LastName,Email,Password,PhoneNumber,Address")] Customer customer)
-        {
-            if (id != customer.Id) return NotFound();
-            if (!ModelState.IsValid) return View(customer);
+            if (id != customer.Id) return BadRequest("ID mismatch.");
+            if (!ModelState.IsValid) return BadRequest(ModelState);
 
             var existing = await _context.Customers.FindAsync(id);
             if (existing == null) return NotFound();
 
             if (!string.IsNullOrEmpty(customer.Password))
-            {
                 (existing.Password, existing.Salt) = HashPassword(customer.Password);
-            }
 
             existing.FirstName = customer.FirstName;
             existing.LastName = customer.LastName;
@@ -86,74 +73,47 @@ namespace IdealShop.Controllers
             existing.Address = customer.Address;
 
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            return Ok(existing);
         }
 
-        //  GET: Delete Customer
-        public async Task<IActionResult> Delete(int? id)
-        {
-            var customer = await FindByIdAsync(id);
-            return customer == null ? NotFound() : View(customer);
-        }
-
-        //  POST: Confirm Delete
-        [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
+        // DELETE: api/customers/5
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
         {
             var customer = await _context.Customers.FindAsync(id);
-            if (customer != null)
-            {
-                _context.Customers.Remove(customer);
-                await _context.SaveChangesAsync();
-            }
-            return RedirectToAction(nameof(Index));
+            if (customer == null) return NotFound();
+
+            _context.Customers.Remove(customer);
+            await _context.SaveChangesAsync();
+
+            return NoContent();
         }
 
-        //  GET: Register
-        public IActionResult Register()
+        // POST: api/customers/register
+        [HttpPost("register")]
+        [AllowAnonymous]
+        public async Task<IActionResult> Register([FromBody] Customer customer)
         {
-            return View();
-        }
-
-        //  POST: Register
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Register(Customer customer)
-        {
-            if (!ModelState.IsValid) return View(customer);
+            if (!ModelState.IsValid) return BadRequest(ModelState);
 
             if (await _context.Customers.AnyAsync(c => c.Email == customer.Email))
-            {
-                ModelState.AddModelError("Email", "Email is already registered.");
-                return View(customer);
-            }
+                return BadRequest("Email is already registered.");
 
             (customer.Password, customer.Salt) = HashPassword(customer.Password);
-
             _context.Customers.Add(customer);
             await _context.SaveChangesAsync();
 
-            return RedirectToAction("Login");
+            return Ok("Registration successful.");
         }
 
-        //  GET: Login
-        public IActionResult Login()
+        // POST: api/customers/login
+        [HttpPost("login")]
+        [AllowAnonymous]
+        public async Task<IActionResult> Login([FromBody] LoginRequest request)
         {
-            return View();
-        }
-
-        //  POST: Login
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Login(string email, string password)
-        {
-            var customer = await _context.Customers.FirstOrDefaultAsync(c => c.Email == email);
-            if (customer == null || !VerifyPassword(password, customer.Password, customer.Salt))
-            {
-                ModelState.AddModelError(string.Empty, "Invalid login credentials.");
-                return View();
-            }
+            var customer = await _context.Customers.FirstOrDefaultAsync(c => c.Email == request.Email);
+            if (customer == null || !VerifyPassword(request.Password, customer.Password, customer.Salt))
+                return Unauthorized("Invalid login credentials.");
 
             var claims = new List<Claim>
             {
@@ -161,28 +121,22 @@ namespace IdealShop.Controllers
                 new Claim(ClaimTypes.Role, "Customer")
             };
 
-            var identity = new ClaimsIdentity(claims, "CustomerLogin");
+            var identity = new ClaimsIdentity(claims, "MyCookieAuth");
             var authProps = new AuthenticationProperties();
 
             await HttpContext.SignInAsync("MyCookieAuth", new ClaimsPrincipal(identity), authProps);
-
-            return RedirectToAction("Index", "Home");
+            return Ok("Login successful.");
         }
 
-        //  Logout
+        // POST: api/customers/logout
+        [HttpPost("logout")]
         public async Task<IActionResult> Logout()
         {
             await HttpContext.SignOutAsync("MyCookieAuth");
-            return RedirectToAction("Login");
+            return Ok("Logged out.");
         }
 
-        //Find by ID
-        private async Task<Customer?> FindByIdAsync(int? id)
-        {
-            return id == null ? null : await _context.Customers.FirstOrDefaultAsync(c => c.Id == id);
-        }
-
-        //  Hash
+        // Helpers
         private (string Hash, string Salt) HashPassword(string password)
         {
             byte[] salt = new byte[16];
@@ -200,19 +154,24 @@ namespace IdealShop.Controllers
             return (hash, Convert.ToBase64String(salt));
         }
 
-        //   Verify
-        private bool VerifyPassword(string enteredPassword, string storedHash, string storedSalt)
+        private bool VerifyPassword(string password, string hash, string salt)
         {
-            byte[] saltBytes = Convert.FromBase64String(storedSalt);
-            string hash = Convert.ToBase64String(KeyDerivation.Pbkdf2(
-                password: enteredPassword,
+            var saltBytes = Convert.FromBase64String(salt);
+            string enteredHash = Convert.ToBase64String(KeyDerivation.Pbkdf2(
+                password: password,
                 salt: saltBytes,
                 prf: KeyDerivationPrf.HMACSHA256,
                 iterationCount: 10000,
                 numBytesRequested: 32
             ));
 
-            return hash == storedHash;
+            return enteredHash == hash;
+        }
+
+        public class LoginRequest
+        {
+            public string Email { get; set; } = string.Empty;
+            public string Password { get; set; } = string.Empty;
         }
     }
 }

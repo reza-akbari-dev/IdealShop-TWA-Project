@@ -16,7 +16,7 @@ namespace IdealShop.Controllers
             _context = context;
             _logger = logger;
         }
-
+        
         public IActionResult Index()
         {
             var products = _context.Products.Include(p => p.ProductCategory).ToList();

@@ -1,15 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using IdealShop.Data;
 using IdealShop.Models;
 
 namespace IdealShop.Controllers
 {
-    public class CategoriesController : Controller
+    [ApiController]
+    [Route("api/[controller]")]
+    public class CategoriesController : ControllerBase
     {
         private readonly ApplicationDbContext _context;
 
@@ -18,103 +16,73 @@ namespace IdealShop.Controllers
             _context = context;
         }
 
-        // GET: Categories
-        public async Task<IActionResult> Index()
+        // GET: api/categories
+        [HttpGet]
+        public async Task<IActionResult> GetAll()
         {
-            return View(await _context.Categories.ToListAsync());
+            var categories = await _context.Categories.ToListAsync();
+            return Ok(categories);
         }
 
-        // GET: Categories/Details/5
-        public async Task<IActionResult> Details(int? id)
+        // GET: api/categories/5
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetById(int id)
         {
-            var category = await FindByIdAsync(id);
-            return category == null ? NotFound() : View(category);
+            var category = await _context.Categories.FindAsync(id);
+            return category == null ? NotFound() : Ok(category);
         }
 
-        // GET: Categories/Create
-        public IActionResult Create()
-        {
-            return View();
-        }
-
-        // POST: Categories/Create
+        // POST: api/categories
         [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name")] Category category)
+        public async Task<IActionResult> Create([FromBody] Category category)
         {
-            if (!ModelState.IsValid) return View(category);
+            if (!ModelState.IsValid) return BadRequest(ModelState);
 
-            //   Ensure category name is unique
             if (await _context.Categories.AnyAsync(c => c.Name == category.Name))
-            {
-                ModelState.AddModelError("Name", "Category name already exists.");
-                return View(category);
-            }
+                return BadRequest("Category name already exists.");
 
-            _context.Add(category);
+            _context.Categories.Add(category);
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+
+            return CreatedAtAction(nameof(GetById), new { id = category.Id }, category);
         }
 
-        // GET: Categories/Edit/5
-        public async Task<IActionResult> Edit(int? id)
+        // PUT: api/categories/5
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Update(int id, [FromBody] Category category)
         {
-            var category = await FindByIdAsync(id);
-            return category == null ? NotFound() : View(category);
-        }
+            if (id != category.Id) return BadRequest("ID mismatch.");
+            if (!ModelState.IsValid) return BadRequest(ModelState);
 
-        // POST: Categories/Edit/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name")] Category category)
-        {
-            if (id != category.Id) return NotFound();
-            if (!ModelState.IsValid) return View(category);
+            if (await _context.Categories.AnyAsync(c => c.Name == category.Name && c.Id != category.Id))
+                return BadRequest("Category name already exists.");
+
+            _context.Entry(category).State = EntityState.Modified;
 
             try
             {
-                //   Ensure category name is unique (excluding the current category)
-                if (await _context.Categories.AnyAsync(c => c.Name == category.Name && c.Id != category.Id))
-                {
-                    ModelState.AddModelError("Name", "Category name already exists.");
-                    return View(category);
-                }
-
-                _context.Update(category);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return Ok(category);
             }
             catch (DbUpdateConcurrencyException)
             {
-                if (!await _context.Categories.AnyAsync(e => e.Id == category.Id)) return NotFound();
+                if (!await _context.Categories.AnyAsync(e => e.Id == category.Id))
+                    return NotFound();
                 throw;
             }
         }
 
-        // GET: Categories/Delete/5
-        public async Task<IActionResult> Delete(int? id)
-        {
-            var category = await FindByIdAsync(id);
-            return category == null ? NotFound() : View(category);
-        }
-
-        // POST: Categories/Delete/5
-        [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
+        // DELETE: api/categories/5
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
         {
             var category = await _context.Categories.FindAsync(id);
             if (category == null) return NotFound();
 
             _context.Categories.Remove(category);
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
-        }
 
-        //   Helper Method to Find Category by ID
-        private async Task<Category?> FindByIdAsync(int? id)
-        {
-            return id == null ? null : await _context.Categories.FirstOrDefaultAsync(c => c.Id == id);
+            return NoContent();
         }
     }
 }
