@@ -1,16 +1,13 @@
-﻿using System;
-using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.EntityFrameworkCore;
-using IdealShop.Data;
+﻿using IdealShop.Data;
 using IdealShop.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace IdealShop.Controllers
 {
-    public class ProductsController : Controller
+    [ApiController]
+    [Route("api/[controller]")]
+    public class ProductsController : ControllerBase
     {
         private readonly ApplicationDbContext _context;
 
@@ -19,55 +16,45 @@ namespace IdealShop.Controllers
             _context = context;
         }
 
-        // GET: Products
-        public async Task<IActionResult> Index()
+        // GET: api/Products
+        [HttpGet]
+        public async Task<IActionResult> GetAll()
         {
-            var products = _context.Products.Include(p => p.ProductCategory);
-            return View(await products.ToListAsync());
+            var products = await _context.Products
+                .Include(p => p.ProductCategory)
+                .ToListAsync();
+
+            return Ok(products);
         }
 
-        // GET: Products/Details/5
-        public async Task<IActionResult> Details(int? id)
+        // GET: api/Products/5
+        [HttpGet("{id}")]
+        public async Task<IActionResult> Get(int id)
         {
-            var product = await FindByIdAsync(id);
-            return product == null ? NotFound() : View(product);
+            var product = await _context.Products
+                .Include(p => p.ProductCategory)
+                .FirstOrDefaultAsync(p => p.Id == id);
+
+            return product == null ? NotFound() : Ok(product);
         }
 
-        // GET: Products/Create
-        public IActionResult Create()
-        {
-            PopulateCategoriesDropdown();
-            return View();
-        }
-
-        // POST: Products/Create
+        // POST: api/Products
         [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,ProductCategoryId,Price,Stock,ImageFile")] Product product)
+        public async Task<IActionResult> Create([FromForm] Product product)
         {
             if (!ModelState.IsValid)
-            {
-                PopulateCategoriesDropdown(product.ProductCategoryId);
-                return View(product);
-            }
+                return BadRequest(ModelState);
 
-            //   Ensure product name is unique
             if (await _context.Products.AnyAsync(p => p.Name == product.Name))
-            {
-                ModelState.AddModelError("Name", "Product name already exists.");
-                PopulateCategoriesDropdown(product.ProductCategoryId);
-                return View(product);
-            }
+                return BadRequest("Product name already exists.");
 
-            //   Handle image upload
             if (product.ImageFile != null && product.ImageFile.Length > 0)
             {
-                var fileName = Guid.NewGuid().ToString() + Path.GetExtension(product.ImageFile.FileName);
-                var imagePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", fileName);
+                var fileName = Guid.NewGuid() + Path.GetExtension(product.ImageFile.FileName);
+                var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images", fileName);
+                Directory.CreateDirectory(Path.GetDirectoryName(path)!);
 
-                Directory.CreateDirectory(Path.GetDirectoryName(imagePath)!);
-
-                using (var stream = new FileStream(imagePath, FileMode.Create))
+                using (var stream = new FileStream(path, FileMode.Create))
                 {
                     await product.ImageFile.CopyToAsync(stream);
                 }
@@ -76,111 +63,69 @@ namespace IdealShop.Controllers
             }
             else
             {
-                ModelState.AddModelError("ImageFile", "Please select an image.");
-                PopulateCategoriesDropdown(product.ProductCategoryId);
-                return View(product);
+                return BadRequest("Image is required.");
             }
 
-            _context.Add(product);
+            _context.Products.Add(product);
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+
+            return CreatedAtAction(nameof(Get), new { id = product.Id }, product);
         }
 
-        // GET: Products/Edit/5
-        public async Task<IActionResult> Edit(int? id)
+        // PUT: api/Products/5
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Update(int id, [FromBody] Product product)
         {
-            var product = await FindByIdAsync(id);
-            if (product == null) return NotFound();
+            if (id != product.Id) return BadRequest("ID mismatch");
+            if (!ModelState.IsValid) return BadRequest(ModelState);
 
-            PopulateCategoriesDropdown(product.ProductCategoryId);
-            return View(product);
-        }
+            if (await _context.Products.AnyAsync(p => p.Name == product.Name && p.Id != id))
+                return BadRequest("Product name already exists.");
 
-        // POST: Products/Edit/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,ProductCategoryId,Price,Stock,ImageUrl")] Product product)
-        {
-            if (id != product.Id) return NotFound();
-
-            if (!ModelState.IsValid)
-            {
-                PopulateCategoriesDropdown(product.ProductCategoryId);
-                return View(product);
-            }
+            _context.Entry(product).State = EntityState.Modified;
 
             try
             {
-                if (await _context.Products.AnyAsync(p => p.Name == product.Name && p.Id != product.Id))
-                {
-                    ModelState.AddModelError("Name", "Product name already exists.");
-                    PopulateCategoriesDropdown(product.ProductCategoryId);
-                    return View(product);
-                }
-
-                _context.Update(product);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return Ok(product);
             }
             catch (DbUpdateConcurrencyException)
             {
-                if (!await _context.Products.AnyAsync(e => e.Id == product.Id)) return NotFound();
+                if (!await _context.Products.AnyAsync(e => e.Id == id))
+                    return NotFound();
                 throw;
             }
         }
 
-        // GET: Products/Delete/5
-        public async Task<IActionResult> Delete(int? id)
-        {
-            var product = await FindByIdAsync(id);
-            return product == null ? NotFound() : View(product);
-        }
-
-        // POST: Products/Delete/5
-        [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
+        // DELETE: api/Products/5
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
         {
             var product = await _context.Products.FindAsync(id);
             if (product == null) return NotFound();
 
             _context.Products.Remove(product);
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+
+            return NoContent();
         }
 
-        //   Helper Method to Find Product by ID
-        private async Task<Product?> FindByIdAsync(int? id)
-        {
-            return id == null ? null : await _context.Products
-                .Include(p => p.ProductCategory)
-                .FirstOrDefaultAsync(m => m.Id == id);
-        }
-
-        //   Populate Categories in Dropdown
-        private void PopulateCategoriesDropdown(object selectedCategory = null)
-        {
-            ViewData["ProductCategoryId"] = new SelectList(_context.Categories, "Id", "Name", selectedCategory);
-        }
-        // GET: Products/ByCategory/1
-        public async Task<IActionResult> ByCategory(int categoryId)
+        // GET: api/Products/ByCategory/3
+        [HttpGet("ByCategory/{categoryId}")]
+        public async Task<IActionResult> GetByCategory(int categoryId)
         {
             var category = await _context.Categories
                 .Include(c => c.Products)
                 .FirstOrDefaultAsync(c => c.Id == categoryId);
 
-            if (category == null)
-                return NotFound();
-
-            ViewBag.CategoryName = category.Name;
+            if (category == null) return NotFound();
 
             var products = await _context.Products
-                .Include(p => p.ProductCategory)
                 .Where(p => p.ProductCategoryId == categoryId)
+                .Include(p => p.ProductCategory)
                 .ToListAsync();
 
-            return View("Index", products); // Reuse Index view
+            return Ok(products);
         }
-
     }
 }
