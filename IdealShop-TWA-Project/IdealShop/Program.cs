@@ -2,23 +2,31 @@
 using Microsoft.EntityFrameworkCore;
 using System.Text.Json.Serialization;
 
-
 var builder = WebApplication.CreateBuilder(args);
 
-// Database Configuration
+// ✅ Add services BEFORE builder.Build()
+
+// 1. Database
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// API Controllers only
-//builder.Services.AddControllers();
+// 2. Controllers + JSON options
 builder.Services.AddControllers()
     .AddJsonOptions(options =>
     {
-        options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.IgnoreCycles;
+        options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
     });
 
+// 3. CORS ✅ MUST be here, before app = builder.Build()
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowReactApp", policy =>
+    {
+        policy.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
+    });
+});
 
-// Cookie Authentication (if used)
+// 4. Authentication (if used)
 builder.Services.AddAuthentication("MyCookieAuth")
     .AddCookie("MyCookieAuth", options =>
     {
@@ -27,26 +35,27 @@ builder.Services.AddAuthentication("MyCookieAuth")
         options.AccessDeniedPath = "/Home/AccessDenied";
     });
 
+// ✅ NOW build the app
 var app = builder.Build();
 
-// Middleware Pipeline
+// Middleware
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
     app.UseHsts();
 }
 
+app.UseCors("AllowReactApp"); // ✅ Apply the CORS policy
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseRouting();
-
 app.UseAuthentication();
 app.UseAuthorization();
 
-// ✅ Enable API controller routing
+// Map API controllers
 app.MapControllers();
 
-// Optional default message for base URL
+// Optional root route
 app.MapGet("/", () => "Welcome to the IdealShop API!");
 
 app.Run();

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZtnJyK9djLY=",
+  "dgSpecHash": "acGxVo7sTo0=",
   "success": true,
-  "projectFilePath": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop-TWA-Project\\IdealShop\\IdealShop.csproj",
+  "projectFilePath": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop-TWA-Project-root\\IdealShop-TWA-Project\\IdealShop-TWA-Project\\IdealShop\\IdealShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Reza\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Reza\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

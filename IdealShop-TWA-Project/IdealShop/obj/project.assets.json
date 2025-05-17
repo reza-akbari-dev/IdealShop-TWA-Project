@@ -7746,11 +7746,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop-TWA-Project\\IdealShop\\IdealShop.csproj",
+      "projectUniqueName": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop-TWA-Project-root\\IdealShop-TWA-Project\\IdealShop-TWA-Project\\IdealShop\\IdealShop.csproj",
       "projectName": "IdealShop",
-      "projectPath": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop-TWA-Project\\IdealShop\\IdealShop.csproj",
+      "projectPath": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop-TWA-Project-root\\IdealShop-TWA-Project\\IdealShop-TWA-Project\\IdealShop\\IdealShop.csproj",
       "packagesPath": "C:\\Users\\Reza\\.nuget\\packages\\",
-      "outputPath": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop-TWA-Project\\IdealShop\\obj\\",
+      "outputPath": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop-TWA-Project-root\\IdealShop-TWA-Project\\IdealShop-TWA-Project\\IdealShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
