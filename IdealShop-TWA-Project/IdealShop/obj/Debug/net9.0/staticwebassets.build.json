@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vuQgh99YzrmMWbZgvK5ROXVWHosAJ8jnLfRSHqxLNec=",
+  "Hash": "ygPD9NXW4g7BDiXLjWl1OnviYO/sihuGAr8faG4vlAY=",
   "Source": "IdealShop",
   "BasePath": "_content/IdealShop",
   "Mode": "Default",
@@ -1569,6 +1569,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\2a2d7ccc-ef3b-4c09-8d9f-a5bfdbe0efef.jpg"
+    },
+    {
+      "Identity": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop-TWA-Project-root\\IdealShop-TWA-Project\\IdealShop-TWA-Project\\IdealShop\\wwwroot\\images\\2d54f82d-2df7-44b1-b62c-8c71528beddf.jpg",
+      "SourceId": "IdealShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop-TWA-Project-root\\IdealShop-TWA-Project\\IdealShop-TWA-Project\\IdealShop\\wwwroot\\",
+      "BasePath": "_content/IdealShop",
+      "RelativePath": "images/2d54f82d-2df7-44b1-b62c-8c71528beddf#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9br0u54sd9",
+      "Integrity": "RdzC75F3kQJwfcQGM+XK5R1uKKxCNMslUIEFgs/oiic=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2d54f82d-2df7-44b1-b62c-8c71528beddf.jpg"
     },
     {
       "Identity": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop-TWA-Project-root\\IdealShop-TWA-Project\\IdealShop-TWA-Project\\IdealShop\\wwwroot\\images\\32401177-aecd-4301-8cd9-c7583a3391ae.jpg",
@@ -5143,6 +5164,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-PQ/YwAlKYTA/VeF0klTmH5rfI3YwQqjFTTzFaCDAjG8="
+        }
+      ]
+    },
+    {
+      "Route": "images/2d54f82d-2df7-44b1-b62c-8c71528beddf.9br0u54sd9.jpg",
+      "AssetFile": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop-TWA-Project-root\\IdealShop-TWA-Project\\IdealShop-TWA-Project\\IdealShop\\wwwroot\\images\\2d54f82d-2df7-44b1-b62c-8c71528beddf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RdzC75F3kQJwfcQGM+XK5R1uKKxCNMslUIEFgs/oiic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 17:02:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9br0u54sd9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2d54f82d-2df7-44b1-b62c-8c71528beddf.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RdzC75F3kQJwfcQGM+XK5R1uKKxCNMslUIEFgs/oiic="
+        }
+      ]
+    },
+    {
+      "Route": "images/2d54f82d-2df7-44b1-b62c-8c71528beddf.jpg",
+      "AssetFile": "D:\\education\\vanier\\block 5\\TRANSACTIONAL WEB APPLICATIONS\\project\\IdealShop-TWA-Project-root\\IdealShop-TWA-Project\\IdealShop-TWA-Project\\IdealShop\\wwwroot\\images\\2d54f82d-2df7-44b1-b62c-8c71528beddf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RdzC75F3kQJwfcQGM+XK5R1uKKxCNMslUIEFgs/oiic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 17:02:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RdzC75F3kQJwfcQGM+XK5R1uKKxCNMslUIEFgs/oiic="
         }
       ]
     },

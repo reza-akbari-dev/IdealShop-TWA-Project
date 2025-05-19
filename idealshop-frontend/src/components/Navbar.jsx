@@ -4,6 +4,7 @@ import axios from "axios";
 
 function Navbar() {
   const [categories, setCategories] = useState([]);
+  const [isAdminLoggedIn, setIsAdminLoggedIn] = useState(false);
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -11,10 +12,19 @@ function Navbar() {
       .get("https://localhost:7138/api/categories")
       .then((res) => setCategories(res.data))
       .catch((err) => console.error("Failed to load categories:", err));
+
+    const isAdmin = localStorage.getItem("isAdmin") === "true";
+    setIsAdminLoggedIn(isAdmin);
   }, []);
 
   const handleCategoryClick = (categoryId) => {
     navigate(`/category/${categoryId}`);
+  };
+
+  const handleSignOut = () => {
+    localStorage.removeItem("isAdmin");
+    setIsAdminLoggedIn(false);
+    navigate("/");
   };
 
   return (
@@ -83,15 +93,23 @@ function Navbar() {
         </ul>
 
         <div className="d-flex">
-          <Link className="btn btn-primary me-2" to="/admin-login">
-            Admin Login
-          </Link>
-          <Link className="btn btn-primary me-2" to="/login">
-            Login
-          </Link>
-          <Link className="btn btn-primary" to="/register">
-            Register
-          </Link>
+          {isAdminLoggedIn ? (
+            <button className="btn btn-danger" onClick={handleSignOut}>
+              Sign Out
+            </button>
+          ) : (
+            <>
+              <Link className="btn btn-primary me-2" to="/admin-login">
+                Admin Login
+              </Link>
+              <Link className="btn btn-primary me-2" to="/login">
+                Login
+              </Link>
+              <Link className="btn btn-primary" to="/register">
+                Register
+              </Link>
+            </>
+          )}
         </div>
       </div>
     </nav>
