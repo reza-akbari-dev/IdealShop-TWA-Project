@@ -5,6 +5,7 @@ import axios from "axios";
 function Navbar() {
   const [categories, setCategories] = useState([]);
   const [isAdminLoggedIn, setIsAdminLoggedIn] = useState(false);
+  const [isCustomerLoggedIn, setIsCustomerLoggedIn] = useState(false);
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -14,17 +15,23 @@ function Navbar() {
       .catch((err) => console.error("Failed to load categories:", err));
 
     const isAdmin = localStorage.getItem("isAdmin") === "true";
+    const isCustomer = localStorage.getItem("isCustomer") === "true";
+
     setIsAdminLoggedIn(isAdmin);
+    setIsCustomerLoggedIn(isCustomer);
   }, []);
 
   const handleCategoryClick = (categoryId) => {
     navigate(`/category/${categoryId}`);
   };
 
-  const handleSignOut = () => {
+  const handleLogout = () => {
     localStorage.removeItem("isAdmin");
+    localStorage.removeItem("isCustomer");
     setIsAdminLoggedIn(false);
+    setIsCustomerLoggedIn(false);
     navigate("/");
+    window.location.reload(); // refresh to update nav state
   };
 
   return (
@@ -93,10 +100,17 @@ function Navbar() {
         </ul>
 
         <div className="d-flex">
-          {isAdminLoggedIn ? (
-            <button className="btn btn-danger" onClick={handleSignOut}>
-              Sign Out
-            </button>
+          {isAdminLoggedIn || isCustomerLoggedIn ? (
+            <>
+              {isCustomerLoggedIn && (
+                <Link className="btn btn-success me-2" to="/cart">
+                  Cart
+                </Link>
+              )}
+              <button className="btn btn-danger" onClick={handleLogout}>
+                Sign Out
+              </button>
+            </>
           ) : (
             <>
               <Link className="btn btn-primary me-2" to="/admin-login">

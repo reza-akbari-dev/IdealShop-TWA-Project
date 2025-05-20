@@ -1,9 +1,10 @@
 import { useEffect, useState } from "react";
-import { useParams, Link } from "react-router-dom";
+import { useParams, Link, useNavigate } from "react-router-dom";
 import axios from "axios";
 
 function ProductDetails() {
   const { id } = useParams();
+  const navigate = useNavigate();
   const [product, setProduct] = useState(null);
 
   useEffect(() => {
@@ -12,6 +13,35 @@ function ProductDetails() {
       .then((res) => setProduct(res.data))
       .catch((err) => console.error(err));
   }, [id]);
+
+  const handleAddToCart = () => {
+    const isCustomer = localStorage.getItem("isCustomer") === "true";
+    const customerEmail = localStorage.getItem("customerEmail");
+
+    if (!isCustomer || !customerEmail) {
+      alert("Please log in first.");
+      navigate("/login");
+      return;
+    }
+
+    axios
+      .post(
+        "https://localhost:7138/api/cartitems/add",
+        {
+          productId: product.id,
+          quantity: 1,
+        },
+        { withCredentials: true }
+      )
+      .then(() => {
+        alert("Product added to cart!");
+        navigate("/cart");
+      })
+      .catch((err) => {
+        console.error("Add to cart error:", err);
+        alert("Failed to add to cart.");
+      });
+  };
 
   if (!product) return <p className="text-center mt-4">Loading...</p>;
 
@@ -27,10 +57,10 @@ function ProductDetails() {
             className="card-img-top"
             style={{
               height: "400px",
-              width: "100%", // make it fill the column width
-              objectFit: "contain", // show full image without cropping or distortion
-              borderRadius: "8px", // optional: rounded edges
-              backgroundColor: "#f8f9fa", // optional: gray/white background for non-square images
+              width: "100%",
+              objectFit: "contain",
+              borderRadius: "8px",
+              backgroundColor: "#f8f9fa",
             }}
           />
         </div>
@@ -45,7 +75,9 @@ function ProductDetails() {
             <strong>Stock:</strong> {product.stock}
           </p>
 
-          <button className="btn btn-success me-2">Add to Cart</button>
+          <button className="btn btn-success me-2" onClick={handleAddToCart}>
+            Add to Cart
+          </button>
           <Link to="/" className="btn btn-secondary">
             Back to List
           </Link>

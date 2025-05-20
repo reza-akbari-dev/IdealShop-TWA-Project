@@ -19,16 +19,26 @@ namespace IdealShop.Controllers
 
         // GET: api/cartitems
         [HttpGet]
+        //public async Task<IActionResult> GetAll()
+        //{
+        //    var cartItems = await _context.CartItems
+        //        .Include(c => c.Customer)
+        //        .Include(c => c.Product)
+        //        .ToListAsync();
+
+        //    return Ok(cartItems);
+        //}
+        [HttpGet]
         public async Task<IActionResult> GetAll()
         {
             var cartItems = await _context.CartItems
                 .Include(c => c.Customer)
                 .Include(c => c.Product)
+                .Where(c => c.Customer.Email == User.Identity.Name)
                 .ToListAsync();
 
             return Ok(cartItems);
         }
-
         // GET: api/cartitems/5
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
@@ -102,6 +112,7 @@ namespace IdealShop.Controllers
         [Authorize(Roles = "Customer")]
         public async Task<IActionResult> AddToCart([FromBody] CartAddRequest request)
         {
+            Console.WriteLine("Current User: " + User.Identity.Name);
             var customer = await _context.Customers.FirstOrDefaultAsync(c => c.Email == User.Identity.Name);
             if (customer == null) return Unauthorized();
 

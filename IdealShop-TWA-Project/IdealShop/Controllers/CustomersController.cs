@@ -106,6 +106,30 @@ namespace IdealShop.Controllers
             return Ok("Registration successful.");
         }
 
+        //// POST: api/customers/login
+        //[HttpPost("login")]
+        //[AllowAnonymous]
+        //public async Task<IActionResult> Login([FromBody] LoginRequest request)
+        //{
+        //    var customer = await _context.Customers.FirstOrDefaultAsync(c => c.Email == request.Email);
+        //    if (customer == null || !VerifyPassword(request.Password, customer.Password, customer.Salt))
+        //        return Unauthorized("Invalid login credentials.");
+
+        //    var claims = new List<Claim>
+        //    {
+        //        new Claim(ClaimTypes.Name, customer.Email),
+        //        new Claim(ClaimTypes.Role, "Customer")
+        //    };
+
+        //    var identity = new ClaimsIdentity(claims, "MyCookieAuth");
+        //    var authProps = new AuthenticationProperties();
+
+        //    //await HttpContext.SignInAsync("MyCookieAuth", new ClaimsPrincipal(identity), authProps);
+        //    var principal = new ClaimsPrincipal(identity);
+        //    await HttpContext.SignInAsync("MyCookieAuth", principal, authProps);
+
+        //    return Ok("Login successful.");
+        //}
         // POST: api/customers/login
         [HttpPost("login")]
         [AllowAnonymous]
@@ -116,17 +140,25 @@ namespace IdealShop.Controllers
                 return Unauthorized("Invalid login credentials.");
 
             var claims = new List<Claim>
-            {
-                new Claim(ClaimTypes.Name, customer.Email),
-                new Claim(ClaimTypes.Role, "Customer")
-            };
+    {
+        new Claim(ClaimTypes.Name, customer.Email),       // Used in AddToCart
+        new Claim(ClaimTypes.Role, "Customer")            // Used in [Authorize(Roles = "Customer")]
+    };
 
             var identity = new ClaimsIdentity(claims, "MyCookieAuth");
-            var authProps = new AuthenticationProperties();
+            var principal = new ClaimsPrincipal(identity);
 
-            await HttpContext.SignInAsync("MyCookieAuth", new ClaimsPrincipal(identity), authProps);
+            var authProps = new AuthenticationProperties
+            {
+                IsPersistent = true, // ✅ Optional: keep login after refresh
+                ExpiresUtc = DateTimeOffset.UtcNow.AddHours(3) // Optional expiry
+            };
+
+            await HttpContext.SignInAsync("MyCookieAuth", principal, authProps);
+
             return Ok("Login successful.");
         }
+
 
         // POST: api/customers/logout
         [HttpPost("logout")]

@@ -12,7 +12,13 @@ import AdminPanel from "./pages/AdminPanel";
 import ManageCategories from "./pages/admin/ManageCategories";
 import ManageProducts from "./pages/admin/ManageProducts";
 import ManageAdmins from "./pages/admin/ManageAdmins";
+import ManageCustomers from "./pages/admin/ManageCustomers";
 import ProductForm from "./pages/admin/ProductForm";
+import CustomerRegister from "./pages/customers/CustomerRegister";
+import CustomerLogin from "./pages/customers/CustomerLogin";
+import Cart from "./pages/customers/Cart";
+import Checkout from "./pages/customers/Checkout";
+import OrderPlaced from "./pages/customers/OrderPlaced";
 
 const App = () => {
   return (
@@ -31,6 +37,12 @@ const App = () => {
         <Route path="/admin/admins" element={<ManageAdmins />} />
         <Route path="/admin/products/create" element={<ProductForm />} />
         <Route path="/admin/products/edit/:id" element={<ProductForm />} />
+        <Route path="/register" element={<CustomerRegister />} />
+        <Route path="/login" element={<CustomerLogin />} />
+        <Route path="/cart" element={<Cart />} />
+        <Route path="/checkout" element={<Checkout />} />
+        <Route path="/order-placed" element={<OrderPlaced />} />
+        <Route path="/admin/customers" element={<ManageCustomers />} />
       </Routes>
       <Footer />
     </Router>
