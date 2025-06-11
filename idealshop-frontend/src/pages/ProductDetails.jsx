@@ -31,7 +31,7 @@ function ProductDetails() {
           productId: product.id,
           quantity: 1,
         },
-        { withCredentials: true }
+        { withCredentials: true }/
       )
       .then(() => {
         alert("Product added to cart!");
